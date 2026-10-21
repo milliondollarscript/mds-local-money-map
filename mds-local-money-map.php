@@ -36,7 +36,7 @@ if (!defined('ABSPATH')) {
 }
 
 if (!defined('MDS_LOCAL_MONEY_MAP_VERSION')) {
-    define('MDS_LOCAL_MONEY_MAP_VERSION', '0.2.1');
+    define('MDS_LOCAL_MONEY_MAP_VERSION', '0.2.2');
 }
 
 if (!defined('MDS_LOCAL_MONEY_MAP_FILE')) {
