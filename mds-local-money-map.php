@@ -3,7 +3,7 @@
  * Plugin Name: Million Dollar Script - Local Money Map
  * Plugin URI: https://milliondollarscript.com/extensions/local-money-map
  * Description: Run local sponsorship maps, trails, offers, QR target links, and moderated sponsor spot campaigns.
- * Version: 0.2.2
+ * Version: 0.2.3
  * Author: Million Dollar Script
  * Author URI: https://milliondollarscript.com
  * Text Domain: mds-local-money-map
@@ -36,7 +36,7 @@ if (!defined('ABSPATH')) {
 }
 
 if (!defined('MDS_LOCAL_MONEY_MAP_VERSION')) {
-    define('MDS_LOCAL_MONEY_MAP_VERSION', '0.2.2');
+    define('MDS_LOCAL_MONEY_MAP_VERSION', '0.2.3');
 }
 
 if (!defined('MDS_LOCAL_MONEY_MAP_FILE')) {

@@ -2,7 +2,7 @@
   "schema": 1,
   "package": "mds-local-money-map",
   "type": "extension",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "channel": "main",
   "title": "Local Money Map",
   "docs": [

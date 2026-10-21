@@ -4,7 +4,7 @@ Tags: million dollar script, local money map, sponsorship, paid placement, qr
 Requires at least: 6.0
 Tested up to: 7.1.3
 Requires PHP: 8.1
-Stable tag: 0.2.2
+Stable tag: 0.2.3
 License: GPLv3 or later
 License URI: https://www.gnu.org/licenses/gpl-3.0.html
 
@@ -21,6 +21,9 @@ Provider-mode sponsor spots remain private until both administrator approval and
 Every approved spot gets a local QR target URL, an SVG QR download, and printable QR sheet options. QR codes are generated locally with a packaged standards-based PHP library and no external service. Very large print batches and high-volume campaign services can still be offloaded to an optional hosted service when needed.
 
 == Changelog ==
+
+= 0.2.3 =
+* Corrected the version the plugin reports, so its listings, its assets, and its built-in documentation all name the installed build.
 
 = 0.2.2 =
 * Tested with WordPress 7.1.3 and WooCommerce 11.2.1, and the plugin states the exact versions it was tested with, so WordPress and WooCommerce no longer report it as untested on a current site.
